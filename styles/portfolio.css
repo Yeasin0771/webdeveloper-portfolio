@@ -146,7 +146,7 @@ main section {
 
 /* Resume Section styles*/
 .resume-column-title {
-    color: #474747);
+    color: #474747;
     font-size: 30px;
     font-weight: 700;
 }
@@ -181,4 +181,12 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer style*/
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
 }
